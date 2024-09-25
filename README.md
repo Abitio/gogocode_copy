@@ -47,6 +47,7 @@ const outCode = script.generate();
 ```javascript
 const a = 1;
 const b = 1;
+//难a
 ```
 
 ## Related Project
